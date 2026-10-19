@@ -1,0 +1,14 @@
+# Data never lives in git
+data/
+*.csv
+*.parquet
+*.zip
+# Secrets
+.env
+*.pem
+*token*
+*key*
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
