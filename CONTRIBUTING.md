@@ -7,4 +7,4 @@ Work happens in YOUR chapter repo. Only finished, tested work comes here.
 3. The NHSSAA review agent comments with questions: what is this, how did you test it, what data does it use and where is it from, does it contain any personal information? Answer in the PR.
 4. A core-team human reviews and merges. The agent never merges.
 
-Never include personal information or secrets in a PR. See `docs/git-directions.md` for the mechanics.
+Anything contributed to NHSSAA repos is public commons for others to use. If your work involves filming or analyzing school teams, check with your athletic director or school first. Never include personal information or secrets in a PR. See `docs/git-directions.md` for the mechanics.
